@@ -1,7 +1,6 @@
 from pyowm import OWM
 from pyowm.utils.config import get_default_config
 from pyowm.utils import timestamps
-from pyowm.utils import config
 from colorama import Fore, Back, Style
 from colorama import init
 
